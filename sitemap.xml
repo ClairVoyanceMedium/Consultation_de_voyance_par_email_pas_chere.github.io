@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/tarifs/</loc>
-    <lastmod>2024-12-30</lastmod>
+    <loc>https://www.voyanceparmail.fr/</loc>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/faq/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/contact/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/GmyGlKk.webp</image:loc>
+      <image:title>Voyance par mail avec Frederick</image:title>
+      <image:caption>Consultation de voyance par mail et par email avec Frederick du cabinet ClairVoyanceMedium.com, réponse claire et personnalisée sous 24 heures.</image:caption>
+    </image:image>
   </url>
 </urlset>
